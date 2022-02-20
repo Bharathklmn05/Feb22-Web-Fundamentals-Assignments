@@ -1,0 +1,189 @@
+*{
+        padding: 0px;
+        margin: 0px;
+}
+#seg1{
+        background-color: black;
+        color: aliceblue;
+        line-height: 20px;
+        margin: 0px;
+        margin-top: 0px;
+        padding: 0px;
+}
+#menu{
+        background-color: rgb(31, 28, 28);
+        width: 35%;
+        float: right;
+        height: 50px;
+        font-size:100px;
+        text-align: right;
+        text-align: center;
+}
+#header{
+        width: 65%;
+        background-color: rgb(31, 28, 28);
+        float: left;
+        height: 50px;
+        font-size: 20px;
+        padding-top: 0px;
+}
+h2{
+        margin-top: 12px;
+        margin-left: 80px;
+        padding: 5px;
+        margin-left: 150px;
+        font-family: Arial, Helvetica, sans-serif;
+        
+}
+span{
+        padding-right: 20px;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 100;
+}
+#images{
+        line-height: 0px;
+        text-align: center;
+       
+}
+#click{
+        width: 1200px;
+        margin: 50px;
+}
+#about{
+        background-color: rgb(247, 244, 241);
+        text-align: left;
+        margin: 50px;
+        padding: 50px;
+        color: rgb(141, 9, 9);
+}
+.intrests{
+        height: 300px;
+        width: 300px;
+        color: blue;
+     
+        border-radius: 50%;
+        
+
+}
+table{
+        align-self: center;
+        width: 100%;
+        margin-bottom: 50px;
+}
+.travel{
+        width: 900px;
+        height: 1200px;
+}
+#paris_pic{
+        border: 10px dotted rgb(189, 147, 84);
+        width: 50%;
+        padding-top:  30px ;
+        padding-bottom: 30px;
+        padding-left: 65px;
+        margin: 10px;
+        float: left;
+        margin-bottom: 50px;
+}
+#paris_blog{
+        width: 32%;
+        float: right;
+        margin: 100px;
+        line-height: 30px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+        font-size: 50px;
+        align-self: center;
+        margin-bottom: 30px;
+
+}
+#barcelona_pic{
+        border: 10px dotted rgb(189, 147, 84);
+        width: 50%;
+        padding-top:  30px ;
+        padding-bottom: 30px;
+        padding-left: 65px;
+        margin: 10px;
+        float: right;
+        margin-bottom: 50px;
+}
+#barcelona_blog{
+        width: 32%;
+        float: left;
+        margin: 100px;
+        line-height: 30px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+        
+}
+#london_pic{
+        border: 10px dotted rgb(189, 147, 84);
+        width: 50%;
+        padding-top:  30px ;
+        padding-bottom: 30px;
+        padding-left: 65px;
+        margin: 10px;
+        float: left;
+        margin-bottom: 50px;
+}
+#london_blog{
+        width: 32%;
+        float: right;
+        margin: 100px;
+        line-height: 30px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+        
+}
+#rome_pic{
+        border: 10px dotted rgb(189, 147, 84);
+        width: 50%;
+        padding-top:  30px ;
+        padding-bottom: 30px;
+        padding-left: 65px;
+        margin: 10px;
+        float: right;
+        margin-bottom: 50px;
+}
+#rome_blog{
+        width: 32%;
+        float: left;
+        margin: 100px;
+        line-height: 30px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#profileHead{
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       font-size: 50px;
+       text-align: center;
+       margin-bottom: 70px;
+       color: rgb(146, 74, 27);
+       text-rendering: optimizeLegibility;
+       text-shadow: 20px;
+
+}
+#bottom{
+        height: 150px;
+        color: antiquewhite;
+        background-color: brown;
+        text-align: center;
+        line-height: 30px;
+        padding: 20px;
+        padding-left: 150px;
+        padding-right: 150px;
+        
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#cr{
+        border: 2px solid whitesmoke;
+        width: 500px;
+        text-align: center;
+        margin-left: 500px;
+        margin-top: 20px;
+}
+#botr{
+        margin: 20px;
+        border: 2px dashed honeydew;
+}
