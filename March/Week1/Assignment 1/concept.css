@@ -1,0 +1,83 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    height: 300vh;
+}
+.header{
+    background-color: blanchedalmond;
+    width: 100vw;
+    height: 10vh;
+    position: fixed;
+    top: 0px;
+    
+}
+.heading{
+    padding-top: 20px ;
+    padding-left: 20px;
+
+}
+img{
+    height: 7vh;
+    width: 100px;
+}
+.name{
+    font-size: 35px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+#firstheader{
+    
+    
+    padding-left: 600px;
+}
+.headers{
+    text-align: right;
+    color: rgb(129, 18, 18);
+    font-size: 30px;
+    padding-left: 60px;
+    
+    
+}
+.first{
+    background-color: blue;
+    width: 500px;
+    height: 300px;
+    margin-top: 11vh;
+
+}
+.second{
+    background-color: blue;
+    width: 500px;
+    height: 300px;
+    margin-top: 11vh;
+
+}
+
+.third{
+    background-color: blue;
+    width: 500px;
+    height: 300px;
+    margin-top: 11vh;
+
+}
+
+.forth{
+    background-color: blue;
+    width: 500px;
+    height: 300px;
+    margin-top: 11vh;
+
+}
+.fifth{
+    background-color: blue;
+    width: 500px;
+    height: 300px;
+    margin-top: 11vh;
+
+}
+
+
+

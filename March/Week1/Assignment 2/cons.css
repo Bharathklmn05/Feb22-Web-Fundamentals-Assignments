@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    height: 400vh;
+}
+.num1{
+    width: 100vw;
+    height: 10vh;
+    background-color: pink;
+    margin-bottom: 150px;
+    position: sticky;
+    top: 0px;
+}
+.num2{
+    width: 100vw;
+    height: 10vh;
+    background-color: purple;
+    margin-bottom: 150px;
+    position: sticky;
+    top: 10vh;
+
+}
+.num3{
+    width: 100vw;
+    height: 10vh;
+    background-color: blanchedalmond;
+    margin-bottom: 150px;
+    position: sticky;
+    top: 20vh;
+
+}
+.num4{
+    width: 100vw;
+    height: 10vh;
+    background-color: palevioletred;
+    margin-bottom: 150px;
+    position: sticky;
+    top: 30vh;
+}
+.num5{
+    width: 100vw;
+    height: 10vh;
+    background-color: black;
+    margin-bottom: 150px;
+    color: azure;
+    position: sticky;
+    top: 40vh;
+}
+.num6{
+    width: 100vw;
+    height: 10vh;
+    background-color: purple;
+    margin-bottom: 150px;
+    position: sticky;
+    top: 50vh;
+}
+.num7{
+    width: 100vw;
+    height: 10vh;
+    background-color: bisque;
+    margin-bottom: 150px;
+    position: sticky;
+    top: 60vh;
+}
+.num8{
+    width: 100vw;
+    height: 10vh;
+    background-color: darkturquoise;
+    margin-bottom: 150px;
+    position: sticky;
+    top: 70vh;
+}
+.num9{
+    width: 100vw;
+    height: 10vh;
+    background-color: purple;
+    margin-bottom: 150px;
+    position: sticky;
+    top: 80vh;
+}
+.num10{
+    width: 100vw;
+    height: 10vh;
+    background-color: white;
+    margin-bottom: 150px;
+    position: sticky;
+    top: 90vh;
+}
+.num11{
+    width: 100vw;
+    height: 10vh;
+    background-color: black;
+    margin-bottom: 150px;
+    position: sticky;
+    top: 100vh;
+    color: aliceblue;
+}
+
